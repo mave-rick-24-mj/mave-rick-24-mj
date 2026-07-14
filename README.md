@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Retro Cyberpunk Banner using your uploaded asset -->
-  <img src="assets/securitybanner.jpg" width="50%" alt="Maverick Security Banner" />
+  <img src="assets/securitybanner.jpg" width="30%" alt="Maverick Security Banner" />
 </p>
 
 <p align="center">
