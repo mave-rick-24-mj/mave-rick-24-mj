@@ -1,6 +1,6 @@
 <p align="center">
-  <!-- Retro Cyberpunk Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=retro&color=00FF66&height=220&section=header&text=MAVERICK%20SEC&fontSize=65&animation=fadeIn&fontColor=101010&vCenter=true" width="100%" alt="Maverick Security Banner" />
+  <!-- Retro Cyberpunk Banner using your uploaded asset -->
+  <img src="assets/securitybanner.jpg" width="50%" alt="Maverick Security Banner" />
 </p>
 
 <p align="center">
@@ -24,8 +24,8 @@
 <table align="center" width="100%">
   <tr>
     <td width="25%" align="center" valign="middle">
-      <!-- FIXED: Reliable Cyber-Brain Vector Graphic -->
-      <img src="https://raw.githubusercontent.com/h-r-v/h-r-v/master/assets/brain.gif" width="130px" alt="Cyber Brain" />
+      <!-- Your Custom Profile Image -->
+      <img src="assets/thedeepdive.jpg" width="180px" style="border-radius: 10px;" alt="Maina Joe" />
     </td>
     <td width="75%" valign="top">
       <h3>Hey there! I'm Maina Joe 👋</h3>
@@ -103,18 +103,13 @@ I adapt my workflow across customized environments depending on the engagement o
 
 </td>
 <td width="25%" align="center" valign="middle">
-<!-- FIXED: Highly-reliable, static Shield Icon from a stable CDN -->
-<img src="https://img.icons8.com/nolan/128/security-shield.png" width="110" alt="Shield Alert" />
+<!-- Your Custom Cyber Shield Asset -->
+<img src="assets/shieldalert.jpg" width="150" style="border-radius: 8px;" alt="Shield Alert" />
 </td>
 </tr>
 </table>
 
-## 📊 Live Telemetry Statistics (Automated Tracking)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mave-rick-24-mj&show_icons=true&theme=tokyonight&border_color=00FF66&bg_color=0f172a&title_color=00FF66&text_color=e2e8f0&icon_color=00FF66" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mave-rick-24-mj&layout=compact&theme=tokyonight&border_color=00FF66&bg_color=0f172a&title_color=00FF66&text_color=e2e8f0" width="49%" />
-</p>
+---
 
 ## 📟 Establish Handshake
 
