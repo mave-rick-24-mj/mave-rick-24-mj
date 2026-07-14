@@ -19,7 +19,7 @@
 
 ---
 
-## 📖 The Deep Dive (The Full Story)
+## 📖 Intell
 
 <table align="center" width="100%">
   <tr>
