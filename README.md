@@ -30,7 +30,7 @@
     <td width="75%" valign="top">
       <h3>Hey there! I'm Maina Joe 👋</h3>
       <p>I operate at the intersection of offensive execution and defensive telemetry—otherwise known as <b>Purple Teaming</b>. While my primary drive lies in Red Team penetration testing and exploit execution, I am equally focused on Blue Team defensive monitoring. I regularly design labs where I launch targeted exploits in Kali or BlackArch and immediately analyze the forensic footprint on Wazuh SIEM using Sysmon logs.</p>
-      <p>This dual approach is backed by my academic journey at <b>Zetech University</b> and my leadership experience as an <b>IT Attachment Team Leader at Thika Water Company</b>. I build security solutions that don't just look for attacks, but understand how they work from the inside out.</p>
+      <p>This dual approach is backed by my academic journey at <b>Zetech University</b> and my leadership experience as an <b>IT Attachment Team Leader at Thiwasco</b>. I build security solutions that don't just look for attacks, but understand how they work from the inside out.</p>
       <p>When the terminal is minimized, I'm usually hitting the court to play some <b>basketball</b>, keeping up with the high-speed drama of <b>Formula 1</b>, deep-diving into obscure corners of the internet for new ideas, or just trying out completely random tech experiments to see what breaks.</p>
     </td>
   </tr>
