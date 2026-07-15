@@ -45,7 +45,7 @@
 ```bash
 mave-rick-24-mj@security-node:~$ query --profile "Maina Joe" --verbose
 [🎓] EDUCATION   :: Pursuing Diploma in Cybersecurity @ Zetech University
-[🚀] EXPERIENCE  :: Former IT Attachment Team Leader @ Thika Water Company
+[🚀] EXPERIENCE  :: Former IT Attachment Team Leader @ Thiwasco
 [🔴] RED FOCUS   :: Vulnerability exploitation, payload obfuscation, and wireless auditing
 [🔵] BLUE FOCUS  :: Wazuh SIEM integration, Sysmon telemetry, and threat intelligence ingestion
 [⚙️] OS DEPLOYED :: Kali Linux, BlackArch, Linux Mint, and Windows Target Sandboxes
