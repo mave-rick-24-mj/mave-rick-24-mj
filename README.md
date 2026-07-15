@@ -43,7 +43,7 @@
 > *If you are short on time, here is the high-level diagnostic of my profile:*
 
 ```bash
-mave-rick-24-mj@security-node:~$ query --profile "Maina Joe" --verbose
+mave-rick-24-mj@security-node:~$ query --profile "M.J" --verbose
 [🎓] EDUCATION   :: Pursuing Diploma in Cybersecurity @ Zetech University
 [🚀] EXPERIENCE  :: Former IT Attachment Team Leader @ Thiwasco
 [🔴] RED FOCUS   :: Vulnerability exploitation, payload obfuscation, and wireless auditing
