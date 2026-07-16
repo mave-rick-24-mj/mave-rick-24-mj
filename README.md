@@ -38,7 +38,7 @@
 
 ---
 
-## ⚡ Quick Scan System
+## ⚡ Quick Scan 
 
 > *If you are short on time, here is the high-level diagnostic of my profile:*
 
