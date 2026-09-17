@@ -116,7 +116,7 @@ I adapt my workflow across customized environments depending on the engagement o
 To run security reviews, collaborate on defense architectures, or initiate general penetration testing inquiries:
 
 ```bash
-mave-rick-24-mj@security-node:~$ mailto mainajoe42@gmail.com
+mave-rick-24-mj@security-node:~$ mailto mainajoe42@gmail.com mailto mavercik245204@gmail.com
 ```
 
 <p align="left">
